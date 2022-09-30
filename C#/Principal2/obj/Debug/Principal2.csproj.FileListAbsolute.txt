@@ -1,0 +1,8 @@
+C:\Users\mame\Desktop\Principal2\bin\Debug\Principal2.exe.config
+C:\Users\mame\Desktop\Principal2\bin\Debug\Principal2.exe
+C:\Users\mame\Desktop\Principal2\bin\Debug\Principal2.pdb
+C:\Users\mame\Desktop\Principal2\obj\Debug\Principal2.csproj.AssemblyReference.cache
+C:\Users\mame\Desktop\Principal2\obj\Debug\Principal2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mame\Desktop\Principal2\obj\Debug\Principal2.csproj.CoreCompileInputs.cache
+C:\Users\mame\Desktop\Principal2\obj\Debug\Principal2.exe
+C:\Users\mame\Desktop\Principal2\obj\Debug\Principal2.pdb
